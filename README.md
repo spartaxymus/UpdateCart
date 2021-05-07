@@ -51,19 +51,3 @@ server is `localhost:8000`
 
 The project frontend is in React.js (you can select between js or ts), but other than that you are free to use whatever
 libraries/frameworks, packages, tools that you want.
-
-### What should I do when I'm finished?
-
-After you have finished you work push all commits to your repository, and then send us email to inform that app has been finished, also please add following users there:
-* win@morphos.is
-* suhas@morphos.is
-* pawel@morphos.is
-* pratchaya.su@morphos.is.
-
-### How is the exam graded?
-
-We are looking for idiomatic use of JavaScript, and the ability to solve the problem with code that is clean and easy to
-read. Please show us how you would use the language and conventions to structure things in a clear and maintainable way.
-
-Even though we are not giving you the UI design, we believe that as a Frontend Developer you should have some ideas of
-how it should look. You are free to use any styling tools that you want, SASS, css-in-js, or even styled-components.
