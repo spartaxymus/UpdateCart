@@ -46,8 +46,3 @@ During all development please make regular commits while working on this app.
 
 Start both server and frontend project by using `npm start` command. The port for frontend is `localhost:3000`, and for
 server is `localhost:8000`
-
-### What libraries/frameworks, packages, tools can I use?
-
-The project frontend is in React.js (you can select between js or ts), but other than that you are free to use whatever
-libraries/frameworks, packages, tools that you want.
