@@ -1,9 +1,10 @@
+![RobotMarket](https://user-images.githubusercontent.com/83664724/118275617-dbefab00-b4f0-11eb-8dd9-3fe8d3924881.jpg)
+
 # Robot Market
 
-This is an e-commerce site for you to buy robots. The homepage should display a list of robots for people to browse,
-where on the right side of the screen should display a cart that show a list of selected robots.
+This is an e-commerce site for you to buy robots. The homepage displays a list of robots for people to browse,
+where on the right side of the screen displays a cart that show a list of selected robots.
 
-Please read the instructions and FAQ below before begin.
 
 ## Features
 
@@ -37,12 +38,7 @@ Please read the instructions and FAQ below before begin.
 }
 ```
 
-## FAQs
-
 ### How do I start the app?
-
-At the very beginning please fork or clone this repository into your own private repository (github / bitbucket).
-During all development please make regular commits while working on this app.
 
 Start both server and frontend project by using `npm start` command. The port for frontend is `localhost:3000`, and for
 server is `localhost:8000`
